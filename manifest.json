@@ -1,0 +1,17 @@
+{
+  "name": "Startup Rush",
+  "short_name": "StartupRush",
+  "description": "استارتاپت رو به یونیکورن تبدیل کن!",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a0a1a",
+  "theme_color": "#64c8ff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
